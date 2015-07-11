@@ -1,0 +1,29 @@
+General
+	- Decisions Based On Specific Matchups??
+	- Possibly Implement Learning/Creative Functionality
+	- Calculate fatal combo given both stage positions and characters
+		- **takes precedence over other options** 
+
+***HUMAN ELEMENT: RNG***
+
+5 States:
+	- Determining Factors
+		- Location of both players relative to the stage
+	- each state could be a *function object*???
+Nuetral
+	- Dash Dance
+	- Aproach
+		- Wall Aproach, Projectile to Aproach(CHARACTER DEPENDANT)
+Offense
+	- Combo
+		- DI Up + Away from Stage(GENERALLY)
+	- Shield Presssure
+	- 
+		- DI Up + Toward Stage(GENERALLY)
+Defense
+	- Combo
+	- Shield Pressure
+	- 
+Edge Guard
+Recovery
+	- Sweet Spot, On Stage, or Above Stage(STAGE AND POSITION DEPENDANT)
